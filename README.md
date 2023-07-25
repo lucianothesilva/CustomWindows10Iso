@@ -1,4 +1,5 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/lucianothesilva/CustomWindows10Iso/blob/main/README.pt-br.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/lucianothesilva/CustomWindows10Iso/blob/main/README.es.md)
 
 
 **How to create a custom Windows 10 ISO with pre-installed software.**
