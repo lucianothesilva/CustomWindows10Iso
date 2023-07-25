@@ -1,3 +1,7 @@
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/lucianothesilva/CustomWindows10Iso/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lucianothesilva/CustomWindows10Iso/blob/main/README.md)
+
+
 **Como criar um ISO personalizado do Windows 10 com software pré-instalado.**
 
 Software Necessário:
